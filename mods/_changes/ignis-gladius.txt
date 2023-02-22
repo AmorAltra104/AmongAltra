@@ -1,0 +1,6 @@
+mods/data/ignis-gladius/events.json
+mods/data/ignis-gladius/ignis-gladius-hard.json
+mods/songs/ignis-gladius/Voices.ogg
+mods/songs/ignis-gladius/Inst.ogg
+mods/songs/ignis-gladius/voices.ogg
+mods/songs/ignis-gladius/inst.ogg
