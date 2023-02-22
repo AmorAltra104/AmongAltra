@@ -1,0 +1,7 @@
+mods/data/playing-with-god-slayer-mode/events-slayer mode.json
+mods/data/playing-with-god-slayer-mode/events.json
+mods/data/playing-with-god-slayer-mode/playing-with-god-slayer-mode-hard.json
+mods/songs/playing-with-god-slayer-mode/Voices.ogg
+mods/songs/playing-with-god-slayer-mode/Inst.ogg
+mods/songs/playing-with-god-slayer-mode/voices.ogg
+mods/songs/playing-with-god-slayer-mode/inst.ogg
