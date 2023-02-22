@@ -1,0 +1,5 @@
+mods/data/above & beyond/above & beyond-canon.json
+mods/songs/above & beyond/Voices.ogg
+mods/songs/above & beyond/Inst.ogg
+mods/songs/above & beyond/voices.ogg
+mods/songs/above & beyond/inst.ogg

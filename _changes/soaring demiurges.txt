@@ -1,0 +1,6 @@
+mods/data/soaring demiurges/events.json
+mods/data/soaring demiurges/soaring demiurges-canon.json
+mods/songs/soaring demiurges/Voices.ogg
+mods/songs/soaring demiurges/Inst.ogg
+mods/songs/soaring demiurges/voices.ogg
+mods/songs/soaring demiurges/inst.ogg

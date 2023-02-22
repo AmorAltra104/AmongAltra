@@ -1,0 +1,8 @@
+mods/data/shaggational/events.json
+mods/data/shaggational/shaggational-canon.json
+mods/data/shaggational/shaggational-god.json
+mods/data/shaggational/shaggational-mania.json
+mods/songs/shaggational/Voices.ogg
+mods/songs/shaggational/Inst.ogg
+mods/songs/shaggational/voices.ogg
+mods/songs/shaggational/inst.ogg

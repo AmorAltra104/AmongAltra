@@ -1,0 +1,6 @@
+mods/data/whats-new/whats-new-canon.json
+mods/data/whats-new/whats-new-mania.json
+mods/songs/whats-new/Voices.ogg
+mods/songs/whats-new/Inst.ogg
+mods/songs/whats-new/voices.ogg
+mods/songs/whats-new/inst.ogg

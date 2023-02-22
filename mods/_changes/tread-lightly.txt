@@ -1,0 +1,5 @@
+mods/data/tread-lightly/tread-lightly-hard.json
+mods/songs/tread-lightly/Voices.ogg
+mods/songs/tread-lightly/Inst.ogg
+mods/songs/tread-lightly/voices.ogg
+mods/songs/tread-lightly/inst.ogg

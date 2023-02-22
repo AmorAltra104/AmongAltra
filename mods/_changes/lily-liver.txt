@@ -1,0 +1,6 @@
+mods/data/lily-liver/events.json
+mods/data/lily-liver/lily-liver-canon.json
+mods/songs/lily-liver/Voices.ogg
+mods/songs/lily-liver/Inst.ogg
+mods/songs/lily-liver/voices.ogg
+mods/songs/lily-liver/inst.ogg

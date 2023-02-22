@@ -1,0 +1,6 @@
+mods/data/cock-eater/cock-eater-canon.json
+mods/data/cock-eater/cock-eater-mania.json
+mods/songs/cock-eater/Voices.ogg
+mods/songs/cock-eater/Inst.ogg
+mods/songs/cock-eater/voices.ogg
+mods/songs/cock-eater/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/boxing match unknown remake/boxing match unknown remake-hard.json
+mods/data/boxing match unknown remake/events.json
+mods/songs/boxing match unknown remake/Voices.ogg
+mods/songs/boxing match unknown remake/Inst.ogg
+mods/songs/boxing match unknown remake/voices.ogg
+mods/songs/boxing match unknown remake/inst.ogg

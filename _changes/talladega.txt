@@ -1,0 +1,9 @@
+mods/data/talladega/events.json
+mods/data/talladega/talladega-canon.json
+mods/data/talladega/talladega-easy.json
+mods/data/talladega/talladega-mania.json
+mods/data/talladega/talladega.json
+mods/songs/talladega/Voices.ogg
+mods/songs/talladega/Inst.ogg
+mods/songs/talladega/voices.ogg
+mods/songs/talladega/inst.ogg

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"dodging",
+			"mattkendo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"engarde",
+			"mattkendo",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"showdown",
+			"mattkendo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "Swordplay",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

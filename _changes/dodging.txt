@@ -1,0 +1,8 @@
+mods/data/dodging/dodging-easy.json
+mods/data/dodging/dodging-hard.json
+mods/data/dodging/dodging.json
+mods/data/dodging/events.json
+mods/songs/dodging/Voices.ogg
+mods/songs/dodging/Inst.ogg
+mods/songs/dodging/voices.ogg
+mods/songs/dodging/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/cheater suffering/cheater suffering-canon.json
+mods/data/cheater suffering/events.json
+mods/songs/cheater suffering/Voices.ogg
+mods/songs/cheater suffering/Inst.ogg
+mods/songs/cheater suffering/voices.ogg
+mods/songs/cheater suffering/inst.ogg

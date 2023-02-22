@@ -1,0 +1,6 @@
+mods/data/purple-power/purple-power-hard.json
+mods/data/purple-power/purple-power.json
+mods/songs/purple-power/Voices.ogg
+mods/songs/purple-power/Inst.ogg
+mods/songs/purple-power/voices.ogg
+mods/songs/purple-power/inst.ogg

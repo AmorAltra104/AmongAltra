@@ -1,0 +1,9 @@
+mods/data/eruption/eruption-canon.json
+mods/data/eruption/eruption-easy.json
+mods/data/eruption/eruption-hard.json
+mods/data/eruption/eruption-mania.json
+mods/data/eruption/eruption.json
+mods/songs/eruption/Voices.ogg
+mods/songs/eruption/Inst.ogg
+mods/songs/eruption/voices.ogg
+mods/songs/eruption/inst.ogg

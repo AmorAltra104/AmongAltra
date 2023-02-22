@@ -1,0 +1,6 @@
+mods/data/roughhousing/dialogue.json
+mods/data/roughhousing/roughhousing-hard.json
+mods/songs/roughhousing/Voices.ogg
+mods/songs/roughhousing/Inst.ogg
+mods/songs/roughhousing/voices.ogg
+mods/songs/roughhousing/inst.ogg

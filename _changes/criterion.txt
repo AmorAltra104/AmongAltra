@@ -1,0 +1,7 @@
+mods/data/criterion/criterion-canon.json
+mods/data/criterion/criterion-mania.json
+mods/data/criterion/events.json
+mods/songs/criterion/Voices.ogg
+mods/songs/criterion/Inst.ogg
+mods/songs/criterion/voices.ogg
+mods/songs/criterion/inst.ogg

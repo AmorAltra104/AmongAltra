@@ -1,0 +1,9 @@
+mods/data/final-destination/dialogue.json
+mods/data/final-destination/events.json
+mods/data/final-destination/final-destination-easy.json
+mods/data/final-destination/final-destination-hard.json
+mods/data/final-destination/final-destination.json
+mods/songs/final-destination/Voices.ogg
+mods/songs/final-destination/Inst.ogg
+mods/songs/final-destination/voices.ogg
+mods/songs/final-destination/inst.ogg

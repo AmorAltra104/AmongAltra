@@ -1,0 +1,5 @@
+mods/data/discombobulated/discombobulated-canon.json
+mods/songs/discombobulated/Voices.ogg
+mods/songs/discombobulated/Inst.ogg
+mods/songs/discombobulated/voices.ogg
+mods/songs/discombobulated/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/boxing match remix/boxing match remix-hard.json
+mods/data/boxing match remix/events.json
+mods/songs/boxing match remix/Voices.ogg
+mods/songs/boxing match remix/Inst.ogg
+mods/songs/boxing match remix/voices.ogg
+mods/songs/boxing match remix/inst.ogg

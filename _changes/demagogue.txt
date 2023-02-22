@@ -1,0 +1,5 @@
+mods/data/demagogue/demagogue-canon.json
+mods/songs/demagogue/Voices.ogg
+mods/songs/demagogue/Inst.ogg
+mods/songs/demagogue/voices.ogg
+mods/songs/demagogue/inst.ogg

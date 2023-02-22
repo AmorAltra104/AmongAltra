@@ -1,0 +1,7 @@
+mods/data/engarde/engarde-easy.json
+mods/data/engarde/engarde-hard.json
+mods/data/engarde/engarde.json
+mods/songs/engarde/Voices.ogg
+mods/songs/engarde/Inst.ogg
+mods/songs/engarde/voices.ogg
+mods/songs/engarde/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/swordfight/swordfight-easy.json
+mods/data/swordfight/swordfight-hard.json
+mods/data/swordfight/swordfight.json
+mods/songs/swordfight/Voices.ogg
+mods/songs/swordfight/Inst.ogg
+mods/songs/swordfight/voices.ogg
+mods/songs/swordfight/inst.ogg

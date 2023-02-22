@@ -1,0 +1,6 @@
+mods/data/starstruck/events.json
+mods/data/starstruck/starstruck-hard.json
+mods/songs/starstruck/Voices.ogg
+mods/songs/starstruck/Inst.ogg
+mods/songs/starstruck/voices.ogg
+mods/songs/starstruck/inst.ogg

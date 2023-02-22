@@ -1,0 +1,7 @@
+mods/data/unfortunate/events.json
+mods/data/unfortunate/unfortunate-6 key.json
+mods/data/unfortunate/unfortunate-hard.json
+mods/songs/unfortunate/Voices.ogg
+mods/songs/unfortunate/Inst.ogg
+mods/songs/unfortunate/voices.ogg
+mods/songs/unfortunate/inst.ogg

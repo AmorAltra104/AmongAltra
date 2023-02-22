@@ -1,0 +1,8 @@
+mods/data/warm-up/events.json
+mods/data/warm-up/warm-up-easy.json
+mods/data/warm-up/warm-up-hard.json
+mods/data/warm-up/warm-up.json
+mods/songs/warm-up/Voices.ogg
+mods/songs/warm-up/Inst.ogg
+mods/songs/warm-up/voices.ogg
+mods/songs/warm-up/inst.ogg

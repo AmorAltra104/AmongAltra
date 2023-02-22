@@ -1,0 +1,5 @@
+mods/data/decay/decay-hard.json
+mods/songs/decay/Voices.ogg
+mods/songs/decay/Inst.ogg
+mods/songs/decay/voices.ogg
+mods/songs/decay/inst.ogg

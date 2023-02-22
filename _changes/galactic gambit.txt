@@ -1,0 +1,6 @@
+mods/data/galactic gambit/galactic gambit-canon.json
+mods/data/galactic gambit/galactic gambit-mania.json
+mods/songs/galactic gambit/Voices.ogg
+mods/songs/galactic gambit/Inst.ogg
+mods/songs/galactic gambit/voices.ogg
+mods/songs/galactic gambit/inst.ogg

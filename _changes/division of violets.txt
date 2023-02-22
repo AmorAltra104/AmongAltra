@@ -1,0 +1,6 @@
+mods/data/division of violets/division of violets-canon.json
+mods/data/division of violets/events.json
+mods/songs/division of violets/Voices.ogg
+mods/songs/division of violets/Inst.ogg
+mods/songs/division of violets/voices.ogg
+mods/songs/division of violets/inst.ogg

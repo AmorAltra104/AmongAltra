@@ -1,0 +1,5 @@
+mods/data/vision/vision-hard.json
+mods/songs/vision/Voices.ogg
+mods/songs/vision/Inst.ogg
+mods/songs/vision/voices.ogg
+mods/songs/vision/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/fourfold energy/fourfold energy-canon.json
+mods/songs/fourfold energy/Voices.ogg
+mods/songs/fourfold energy/Inst.ogg
+mods/songs/fourfold energy/voices.ogg
+mods/songs/fourfold energy/inst.ogg

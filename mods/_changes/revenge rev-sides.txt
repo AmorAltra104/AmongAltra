@@ -1,0 +1,6 @@
+mods/data/revenge rev-sides/revenge rev-sides-hard.json
+mods/data/revenge rev-sides/revenge rev-sides-mania.json
+mods/songs/revenge rev-sides/Voices.ogg
+mods/songs/revenge rev-sides/Inst.ogg
+mods/songs/revenge rev-sides/voices.ogg
+mods/songs/revenge rev-sides/inst.ogg

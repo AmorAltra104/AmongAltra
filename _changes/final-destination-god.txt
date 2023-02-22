@@ -1,0 +1,10 @@
+mods/data/final-destination-god/events.json
+mods/data/final-destination-god/final destination-god-hard.json
+mods/data/final-destination-god/final-destination-god-easy.json
+mods/data/final-destination-god/final-destination-god-hard.json
+mods/data/final-destination-god/final-destination-god-mania.json
+mods/data/final-destination-god/final-destination-god.json
+mods/songs/final-destination-god/Voices.ogg
+mods/songs/final-destination-god/Inst.ogg
+mods/songs/final-destination-god/voices.ogg
+mods/songs/final-destination-god/inst.ogg

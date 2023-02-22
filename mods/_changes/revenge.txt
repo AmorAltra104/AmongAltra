@@ -1,0 +1,9 @@
+mods/data/revenge/dialogue.json
+mods/data/revenge/revenge-easy.json
+mods/data/revenge/revenge-hard.json
+mods/data/revenge/revenge-mania.json
+mods/data/revenge/revenge.json
+mods/songs/revenge/Voices.ogg
+mods/songs/revenge/Inst.ogg
+mods/songs/revenge/voices.ogg
+mods/songs/revenge/inst.ogg

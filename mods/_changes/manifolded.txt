@@ -1,0 +1,5 @@
+mods/data/manifolded/manifolded-canon.json
+mods/songs/manifolded/Voices.ogg
+mods/songs/manifolded/Inst.ogg
+mods/songs/manifolded/voices.ogg
+mods/songs/manifolded/inst.ogg

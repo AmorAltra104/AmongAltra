@@ -1,0 +1,7 @@
+mods/data/voiid fd god/events.json
+mods/data/voiid fd god/voiid fd god-canon.json
+mods/data/voiid fd god/voiid fd god-easy.json
+mods/songs/voiid fd god/Voices.ogg
+mods/songs/voiid fd god/Inst.ogg
+mods/songs/voiid fd god/voices.ogg
+mods/songs/voiid fd god/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/uppercut/events.json
+mods/data/uppercut/uppercut-easy.json
+mods/data/uppercut/uppercut-hard.json
+mods/data/uppercut/uppercut.json
+mods/songs/uppercut/Voices.ogg
+mods/songs/uppercut/Inst.ogg
+mods/songs/uppercut/voices.ogg
+mods/songs/uppercut/inst.ogg

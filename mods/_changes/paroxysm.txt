@@ -1,0 +1,7 @@
+mods/data/paroxysm/events.json
+mods/data/paroxysm/paroxysm-canon.json
+mods/data/paroxysm/paroxysm-mania.json
+mods/songs/paroxysm/Voices.ogg
+mods/songs/paroxysm/Inst.ogg
+mods/songs/paroxysm/voices.ogg
+mods/songs/paroxysm/inst.ogg

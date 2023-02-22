@@ -1,0 +1,7 @@
+mods/data/multiversal pinnacles/events.json
+mods/data/multiversal pinnacles/multiversal pinnacles-canon.json
+mods/data/multiversal pinnacles/multiversal pinnacles-mania.json
+mods/songs/multiversal pinnacles/Voices.ogg
+mods/songs/multiversal pinnacles/Inst.ogg
+mods/songs/multiversal pinnacles/voices.ogg
+mods/songs/multiversal pinnacles/inst.ogg

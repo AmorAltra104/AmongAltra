@@ -1,0 +1,6 @@
+mods/data/big-shot/big-shot-canon.json
+mods/data/big-shot/big-shot.json
+mods/songs/big-shot/Voices.ogg
+mods/songs/big-shot/Inst.ogg
+mods/songs/big-shot/voices.ogg
+mods/songs/big-shot/inst.ogg

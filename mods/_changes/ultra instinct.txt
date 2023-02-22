@@ -1,0 +1,5 @@
+mods/data/ultra instinct/ultra instinct-mania.json
+mods/songs/ultra instinct/Voices.ogg
+mods/songs/ultra instinct/Inst.ogg
+mods/songs/ultra instinct/voices.ogg
+mods/songs/ultra instinct/inst.ogg

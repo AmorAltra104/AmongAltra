@@ -1,0 +1,5 @@
+mods/data/universal teamup/universal teamup-canon.json
+mods/songs/universal teamup/Voices.ogg
+mods/songs/universal teamup/Inst.ogg
+mods/songs/universal teamup/voices.ogg
+mods/songs/universal teamup/inst.ogg

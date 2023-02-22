@@ -1,0 +1,6 @@
+mods/data/cosmic memories/cosmic memories-canon.json
+mods/data/cosmic memories/events.json
+mods/songs/cosmic memories/Voices.ogg
+mods/songs/cosmic memories/Inst.ogg
+mods/songs/cosmic memories/voices.ogg
+mods/songs/cosmic memories/inst.ogg

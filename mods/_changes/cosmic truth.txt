@@ -1,0 +1,6 @@
+mods/data/cosmic truth/cosmic truth-canon.json
+mods/data/cosmic truth/events.json
+mods/songs/cosmic truth/Voices.ogg
+mods/songs/cosmic truth/Inst.ogg
+mods/songs/cosmic truth/voices.ogg
+mods/songs/cosmic truth/inst.ogg

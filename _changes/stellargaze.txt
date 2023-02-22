@@ -1,0 +1,5 @@
+mods/data/stellargaze/stellargaze-canon.json
+mods/songs/stellargaze/Voices.ogg
+mods/songs/stellargaze/Inst.ogg
+mods/songs/stellargaze/voices.ogg
+mods/songs/stellargaze/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/new state/new state-canon.json
+mods/songs/new state/Voices.ogg
+mods/songs/new state/Inst.ogg
+mods/songs/new state/voices.ogg
+mods/songs/new state/inst.ogg

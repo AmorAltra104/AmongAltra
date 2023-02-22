@@ -1,0 +1,8 @@
+mods/data/opponent/dialogue.json
+mods/data/opponent/opponent-easy.json
+mods/data/opponent/opponent-hard.json
+mods/data/opponent/opponent.json
+mods/songs/opponent/Voices.ogg
+mods/songs/opponent/Inst.ogg
+mods/songs/opponent/voices.ogg
+mods/songs/opponent/inst.ogg

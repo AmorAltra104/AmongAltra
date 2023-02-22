@@ -1,0 +1,6 @@
+mods/data/etymology/etymology-canon.json
+mods/data/etymology/events.json
+mods/songs/etymology/Voices.ogg
+mods/songs/etymology/Inst.ogg
+mods/songs/etymology/voices.ogg
+mods/songs/etymology/inst.ogg

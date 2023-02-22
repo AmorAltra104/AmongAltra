@@ -1,0 +1,6 @@
+mods/data/dementia/dementia-hard.json
+mods/data/dementia/events.json
+mods/songs/dementia/Voices.ogg
+mods/songs/dementia/Inst.ogg
+mods/songs/dementia/voices.ogg
+mods/songs/dementia/inst.ogg

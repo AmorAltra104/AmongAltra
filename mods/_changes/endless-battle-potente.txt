@@ -1,0 +1,8 @@
+mods/data/endless-battle-potente/dialogue.json
+mods/data/endless-battle-potente/endless-battle-easy.json
+mods/data/endless-battle-potente/endless-battle-potente-hard.json
+mods/data/endless-battle-potente/endless-battle-potente.json
+mods/songs/endless-battle-potente/Voices.ogg
+mods/songs/endless-battle-potente/Inst.ogg
+mods/songs/endless-battle-potente/voices.ogg
+mods/songs/endless-battle-potente/inst.ogg

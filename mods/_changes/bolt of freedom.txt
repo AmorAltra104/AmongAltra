@@ -1,0 +1,6 @@
+mods/data/bolt of freedom/bolt of freedom-hard.json
+mods/data/bolt of freedom/events.json
+mods/songs/bolt of freedom/Voices.ogg
+mods/songs/bolt of freedom/Inst.ogg
+mods/songs/bolt of freedom/voices.ogg
+mods/songs/bolt of freedom/inst.ogg

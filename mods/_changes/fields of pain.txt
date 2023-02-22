@@ -1,0 +1,6 @@
+mods/data/fields of pain/events.json
+mods/data/fields of pain/fields of pain-hard.json
+mods/songs/fields of pain/Voices.ogg
+mods/songs/fields of pain/Inst.ogg
+mods/songs/fields of pain/voices.ogg
+mods/songs/fields of pain/inst.ogg

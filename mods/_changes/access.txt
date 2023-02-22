@@ -1,0 +1,6 @@
+mods/data/access/access-canon.json
+mods/data/access/access-mania.json
+mods/songs/access/Voices.ogg
+mods/songs/access/Inst.ogg
+mods/songs/access/voices.ogg
+mods/songs/access/inst.ogg

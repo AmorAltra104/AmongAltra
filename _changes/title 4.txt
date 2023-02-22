@@ -1,0 +1,5 @@
+mods/data/title 4/title 4-canon.json
+mods/songs/title 4/Voices.ogg
+mods/songs/title 4/Inst.ogg
+mods/songs/title 4/voices.ogg
+mods/songs/title 4/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/burning regret/burning regret-canon.json
+mods/data/burning regret/burning regret-god.json
+mods/data/burning regret/events.json
+mods/songs/burning regret/Voices.ogg
+mods/songs/burning regret/Inst.ogg
+mods/songs/burning regret/voices.ogg
+mods/songs/burning regret/inst.ogg

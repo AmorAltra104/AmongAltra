@@ -1,0 +1,5 @@
+mods/data/disadvantage/disadvantage-hard.json
+mods/songs/disadvantage/Voices.ogg
+mods/songs/disadvantage/Inst.ogg
+mods/songs/disadvantage/voices.ogg
+mods/songs/disadvantage/inst.ogg

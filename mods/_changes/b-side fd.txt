@@ -1,0 +1,7 @@
+mods/data/b-side fd/b-side fd-canon.json
+mods/data/b-side fd/b-side fd-god.json
+mods/data/b-side fd/b-side fd-mania.json
+mods/songs/b-side fd/Voices.ogg
+mods/songs/b-side fd/Inst.ogg
+mods/songs/b-side fd/voices.ogg
+mods/songs/b-side fd/inst.ogg

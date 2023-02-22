@@ -1,0 +1,6 @@
+mods/data/instinct remastered/events.json
+mods/data/instinct remastered/instinct remastered-canon.json
+mods/songs/instinct remastered/Voices.ogg
+mods/songs/instinct remastered/Inst.ogg
+mods/songs/instinct remastered/voices.ogg
+mods/songs/instinct remastered/inst.ogg

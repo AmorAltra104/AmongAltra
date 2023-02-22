@@ -1,0 +1,5 @@
+mods/data/sporting-t-sides/sporting-t-sides-hard.json
+mods/songs/sporting-t-sides/Voices.ogg
+mods/songs/sporting-t-sides/Inst.ogg
+mods/songs/sporting-t-sides/voices.ogg
+mods/songs/sporting-t-sides/inst.ogg

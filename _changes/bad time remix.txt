@@ -1,0 +1,6 @@
+mods/data/bad time remix/bad time remix-genocidal.json
+mods/data/bad time remix/events.json
+mods/songs/bad time remix/Voices.ogg
+mods/songs/bad time remix/Inst.ogg
+mods/songs/bad time remix/voices.ogg
+mods/songs/bad time remix/inst.ogg

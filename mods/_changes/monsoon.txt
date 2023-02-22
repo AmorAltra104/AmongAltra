@@ -1,0 +1,6 @@
+mods/data/monsoon/events.json
+mods/data/monsoon/monsoon-hard.json
+mods/songs/monsoon/Voices.ogg
+mods/songs/monsoon/Inst.ogg
+mods/songs/monsoon/voices.ogg
+mods/songs/monsoon/inst.ogg

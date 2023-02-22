@@ -1,0 +1,9 @@
+mods/data/ultra instinct new/events-insane.json
+mods/data/ultra instinct new/events.json
+mods/data/ultra instinct new/ultra instinct new-canon.json
+mods/data/ultra instinct new/ultra instinct new-insane.json
+mods/data/ultra instinct new/ultra instinct new-old.json
+mods/songs/ultra instinct new/Voices.ogg
+mods/songs/ultra instinct new/Inst.ogg
+mods/songs/ultra instinct new/voices.ogg
+mods/songs/ultra instinct new/inst.ogg

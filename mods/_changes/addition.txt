@@ -1,0 +1,8 @@
+mods/data/addition/addition-canon.json
+mods/data/addition/addition-god.json
+mods/data/addition/addition-oldgod.json
+mods/data/addition/events.json
+mods/songs/addition/Voices.ogg
+mods/songs/addition/Inst.ogg
+mods/songs/addition/voices.ogg
+mods/songs/addition/inst.ogg

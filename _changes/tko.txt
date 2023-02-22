@@ -1,0 +1,7 @@
+mods/data/tko/tko-easy.json
+mods/data/tko/tko-hard.json
+mods/data/tko/tko.json
+mods/songs/tko/Voices.ogg
+mods/songs/tko/Inst.ogg
+mods/songs/tko/voices.ogg
+mods/songs/tko/inst.ogg

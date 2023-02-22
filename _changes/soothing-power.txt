@@ -1,0 +1,9 @@
+mods/data/soothing-power/soothing-power-canon.json
+mods/data/soothing-power/soothing-power-easy.json
+mods/data/soothing-power/soothing-power-hard.json
+mods/data/soothing-power/soothing-power-mania.json
+mods/data/soothing-power/soothing-power.json
+mods/songs/soothing-power/Voices.ogg
+mods/songs/soothing-power/Inst.ogg
+mods/songs/soothing-power/voices.ogg
+mods/songs/soothing-power/inst.ogg

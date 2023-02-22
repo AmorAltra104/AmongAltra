@@ -1,0 +1,6 @@
+mods/data/resentful cosmos/events.json
+mods/data/resentful cosmos/resentful cosmos-canon.json
+mods/songs/resentful cosmos/Voices.ogg
+mods/songs/resentful cosmos/Inst.ogg
+mods/songs/resentful cosmos/voices.ogg
+mods/songs/resentful cosmos/inst.ogg

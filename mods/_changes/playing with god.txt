@@ -1,0 +1,9 @@
+mods/data/playing with god/events-slayer mode.json
+mods/data/playing with god/events.json
+mods/data/playing with god/playing with god-canon.json
+mods/data/playing with god/playing with god-mania.json
+mods/data/playing with god/playing with god-slayer mode.json
+mods/songs/playing with god/Voices.ogg
+mods/songs/playing with god/Inst.ogg
+mods/songs/playing with god/voices.ogg
+mods/songs/playing with god/inst.ogg

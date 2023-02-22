@@ -1,0 +1,6 @@
+mods/data/hitstun/events.json
+mods/data/hitstun/hitstun-hard.json
+mods/songs/hitstun/Voices.ogg
+mods/songs/hitstun/Inst.ogg
+mods/songs/hitstun/voices.ogg
+mods/songs/hitstun/inst.ogg

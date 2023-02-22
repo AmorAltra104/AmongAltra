@@ -1,0 +1,5 @@
+mods/data/colosseum/colosseum-canon.json
+mods/songs/colosseum/Voices.ogg
+mods/songs/colosseum/Inst.ogg
+mods/songs/colosseum/voices.ogg
+mods/songs/colosseum/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/ecumenical exchange/ecumenical exchange-canon.json
+mods/data/ecumenical exchange/events.json
+mods/songs/ecumenical exchange/Voices.ogg
+mods/songs/ecumenical exchange/Inst.ogg
+mods/songs/ecumenical exchange/voices.ogg
+mods/songs/ecumenical exchange/inst.ogg

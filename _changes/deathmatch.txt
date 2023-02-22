@@ -1,0 +1,8 @@
+mods/data/deathmatch/deathmatch-easy.json
+mods/data/deathmatch/deathmatch-hard.json
+mods/data/deathmatch/deathmatch.json
+mods/data/deathmatch/dialogue.json
+mods/songs/deathmatch/Voices.ogg
+mods/songs/deathmatch/Inst.ogg
+mods/songs/deathmatch/voices.ogg
+mods/songs/deathmatch/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/spiral dismay/spiral dismay-canon.json
+mods/songs/spiral dismay/Voices.ogg
+mods/songs/spiral dismay/Inst.ogg
+mods/songs/spiral dismay/voices.ogg
+mods/songs/spiral dismay/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/purgatory/events.json
+mods/data/purgatory/purgatory-easy.json
+mods/data/purgatory/purgatory-hard.json
+mods/data/purgatory/purgatory.json
+mods/songs/purgatory/Voices.ogg
+mods/songs/purgatory/Inst.ogg
+mods/songs/purgatory/voices.ogg
+mods/songs/purgatory/inst.ogg

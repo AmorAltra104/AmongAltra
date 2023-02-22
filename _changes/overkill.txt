@@ -1,0 +1,5 @@
+mods/data/overkill/overkill-canon.json
+mods/songs/overkill/Voices.ogg
+mods/songs/overkill/Inst.ogg
+mods/songs/overkill/voices.ogg
+mods/songs/overkill/inst.ogg

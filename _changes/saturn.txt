@@ -1,0 +1,5 @@
+mods/data/saturn/saturn-hard.json
+mods/songs/saturn/Voices.ogg
+mods/songs/saturn/Inst.ogg
+mods/songs/saturn/voices.ogg
+mods/songs/saturn/inst.ogg

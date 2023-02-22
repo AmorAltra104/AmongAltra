@@ -1,0 +1,5 @@
+mods/data/attack of the killer mrbeast/attack of the killer mrbeast-mrbeast.json
+mods/songs/attack of the killer mrbeast/Voices.ogg
+mods/songs/attack of the killer mrbeast/Inst.ogg
+mods/songs/attack of the killer mrbeast/voices.ogg
+mods/songs/attack of the killer mrbeast/inst.ogg

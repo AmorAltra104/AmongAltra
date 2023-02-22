@@ -1,0 +1,6 @@
+mods/data/unknown place/events.json
+mods/data/unknown place/unknown place-hard.json
+mods/songs/unknown place/Voices.ogg
+mods/songs/unknown place/Inst.ogg
+mods/songs/unknown place/voices.ogg
+mods/songs/unknown place/inst.ogg

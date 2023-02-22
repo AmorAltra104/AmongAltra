@@ -1,0 +1,7 @@
+mods/data/final-showdown/final-showdown-easy.json
+mods/data/final-showdown/final-showdown-hard.json
+mods/data/final-showdown/final-showdown.json
+mods/songs/final-showdown/Voices.ogg
+mods/songs/final-showdown/Inst.ogg
+mods/songs/final-showdown/voices.ogg
+mods/songs/final-showdown/inst.ogg

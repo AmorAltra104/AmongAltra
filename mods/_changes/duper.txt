@@ -1,0 +1,6 @@
+mods/data/duper/duper-hard.json
+mods/data/duper/events.json
+mods/songs/duper/Voices.ogg
+mods/songs/duper/Inst.ogg
+mods/songs/duper/voices.ogg
+mods/songs/duper/inst.ogg

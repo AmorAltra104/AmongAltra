@@ -1,0 +1,6 @@
+mods/data/aggression/aggression-hard.json
+mods/data/aggression/events.json
+mods/songs/aggression/Voices.ogg
+mods/songs/aggression/Inst.ogg
+mods/songs/aggression/voices.ogg
+mods/songs/aggression/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/pumscp/pumscp-canon.json
+mods/data/pumscp/pumscp-easy.json
+mods/data/pumscp/pumscp-mania.json
+mods/songs/pumscp/Voices.ogg
+mods/songs/pumscp/Inst.ogg
+mods/songs/pumscp/voices.ogg
+mods/songs/pumscp/inst.ogg

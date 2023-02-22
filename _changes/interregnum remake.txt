@@ -1,0 +1,6 @@
+mods/data/interregnum remake/events.json
+mods/data/interregnum remake/interregnum remake-hard.json
+mods/songs/interregnum remake/Voices.ogg
+mods/songs/interregnum remake/Inst.ogg
+mods/songs/interregnum remake/voices.ogg
+mods/songs/interregnum remake/inst.ogg

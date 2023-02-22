@@ -1,0 +1,5 @@
+mods/data/b-side power link/b-side power link-canon.json
+mods/songs/b-side power link/Voices.ogg
+mods/songs/b-side power link/Inst.ogg
+mods/songs/b-side power link/voices.ogg
+mods/songs/b-side power link/inst.ogg

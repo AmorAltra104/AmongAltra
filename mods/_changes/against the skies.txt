@@ -1,0 +1,5 @@
+mods/data/against the skies/against the skies-canon.json
+mods/songs/against the skies/Voices.ogg
+mods/songs/against the skies/Inst.ogg
+mods/songs/against the skies/voices.ogg
+mods/songs/against the skies/inst.ogg

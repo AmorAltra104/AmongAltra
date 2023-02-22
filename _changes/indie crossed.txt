@@ -1,0 +1,6 @@
+mods/data/indie crossed/events.json
+mods/data/indie crossed/indie crossed-hard.json
+mods/songs/indie crossed/Voices.ogg
+mods/songs/indie crossed/Inst.ogg
+mods/songs/indie crossed/voices.ogg
+mods/songs/indie crossed/inst.ogg

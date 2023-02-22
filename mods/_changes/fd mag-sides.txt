@@ -1,0 +1,6 @@
+mods/data/fd mag-sides/events.json
+mods/data/fd mag-sides/fd mag-sides-canon.json
+mods/songs/fd mag-sides/Voices.ogg
+mods/songs/fd mag-sides/Inst.ogg
+mods/songs/fd mag-sides/voices.ogg
+mods/songs/fd mag-sides/inst.ogg

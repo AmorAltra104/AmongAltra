@@ -1,0 +1,6 @@
+mods/data/glowing collision/events.json
+mods/data/glowing collision/glowing collision-canon.json
+mods/songs/glowing collision/Voices.ogg
+mods/songs/glowing collision/Inst.ogg
+mods/songs/glowing collision/voices.ogg
+mods/songs/glowing collision/inst.ogg

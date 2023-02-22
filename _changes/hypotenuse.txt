@@ -1,0 +1,5 @@
+mods/data/hypotenuse/hypotenuse-canon.json
+mods/songs/hypotenuse/Voices.ogg
+mods/songs/hypotenuse/Inst.ogg
+mods/songs/hypotenuse/voices.ogg
+mods/songs/hypotenuse/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/countdown/countdown-hard.json
+mods/data/countdown/events.json
+mods/songs/countdown/Voices.ogg
+mods/songs/countdown/Inst.ogg
+mods/songs/countdown/voices.ogg
+mods/songs/countdown/inst.ogg

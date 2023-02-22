@@ -1,0 +1,5 @@
+mods/data/a red colored zoinks v2/a red colored zoinks v2-canon.json
+mods/songs/a red colored zoinks v2/Voices.ogg
+mods/songs/a red colored zoinks v2/Inst.ogg
+mods/songs/a red colored zoinks v2/voices.ogg
+mods/songs/a red colored zoinks v2/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/quellator/events.json
+mods/data/quellator/quellator-hard.json
+mods/songs/quellator/Voices.ogg
+mods/songs/quellator/Inst.ogg
+mods/songs/quellator/voices.ogg
+mods/songs/quellator/inst.ogg

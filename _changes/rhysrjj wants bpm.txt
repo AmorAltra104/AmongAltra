@@ -1,0 +1,5 @@
+mods/data/rhysrjj wants bpm/rhysrjj wants bpm-hard.json
+mods/songs/rhysrjj wants bpm/Voices.ogg
+mods/songs/rhysrjj wants bpm/Inst.ogg
+mods/songs/rhysrjj wants bpm/voices.ogg
+mods/songs/rhysrjj wants bpm/inst.ogg

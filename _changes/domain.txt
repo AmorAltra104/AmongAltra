@@ -1,0 +1,6 @@
+mods/data/domain/domain-hard.json
+mods/data/domain/events.json
+mods/songs/domain/Voices.ogg
+mods/songs/domain/Inst.ogg
+mods/songs/domain/voices.ogg
+mods/songs/domain/inst.ogg

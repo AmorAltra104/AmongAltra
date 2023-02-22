@@ -1,0 +1,8 @@
+mods/data/combat/combat-easy.json
+mods/data/combat/combat-hard.json
+mods/data/combat/combat.json
+mods/data/combat/dialogue.json
+mods/songs/combat/Voices.ogg
+mods/songs/combat/Inst.ogg
+mods/songs/combat/voices.ogg
+mods/songs/combat/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/godified destruction/events.json
+mods/data/godified destruction/godified destruction-canon.json
+mods/data/godified destruction/godified destruction-god.json
+mods/data/godified destruction/godified destruction-mania.json
+mods/songs/godified destruction/Voices.ogg
+mods/songs/godified destruction/Inst.ogg
+mods/songs/godified destruction/voices.ogg
+mods/songs/godified destruction/inst.ogg

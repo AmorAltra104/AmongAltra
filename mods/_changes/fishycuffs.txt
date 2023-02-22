@@ -1,0 +1,8 @@
+mods/data/fishycuffs/fishycuffs-easy.json
+mods/data/fishycuffs/fishycuffs-hard.json
+mods/data/fishycuffs/fishycuffs.json
+mods/data/fishycuffs/_meta.json
+mods/songs/fishycuffs/Voices.ogg
+mods/songs/fishycuffs/Inst.ogg
+mods/songs/fishycuffs/voices.ogg
+mods/songs/fishycuffs/inst.ogg

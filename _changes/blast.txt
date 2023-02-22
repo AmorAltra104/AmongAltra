@@ -1,0 +1,8 @@
+mods/data/blast/blast-canon.json
+mods/data/blast/blast-easy.json
+mods/data/blast/blast-mania.json
+mods/data/blast/blast.json
+mods/songs/blast/Voices.ogg
+mods/songs/blast/Inst.ogg
+mods/songs/blast/voices.ogg
+mods/songs/blast/inst.ogg

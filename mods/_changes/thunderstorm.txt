@@ -1,0 +1,10 @@
+mods/data/thunderstorm/events.json
+mods/data/thunderstorm/thunderstorm-canon.json
+mods/data/thunderstorm/thunderstorm-easy.json
+mods/data/thunderstorm/thunderstorm-hard.json
+mods/data/thunderstorm/thunderstorm-mania.json
+mods/data/thunderstorm/thunderstorm.json
+mods/songs/thunderstorm/Voices.ogg
+mods/songs/thunderstorm/Inst.ogg
+mods/songs/thunderstorm/voices.ogg
+mods/songs/thunderstorm/inst.ogg

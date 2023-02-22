@@ -1,0 +1,5 @@
+mods/data/zen/zen-canon.json
+mods/songs/zen/Voices.ogg
+mods/songs/zen/Inst.ogg
+mods/songs/zen/voices.ogg
+mods/songs/zen/inst.ogg

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"whats-new",
+			"shaggy",
+			[
+				106,
+				133,
+				135
+			]
+		],
+		[
+			"blast",
+			"sshaggy",
+			[
+				66,
+				113,
+				253
+			]
+		],
+		[
+			"super-saiyan",
+			"sshaggy",
+			[
+				146,
+				73,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "Mania, canon",
+	"weekCharacters": [
+		"shaggy",
+		"bf",
+		"gf"
+	],
+	"storyName": "the rematch",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "chapter3",
+	"startUnlocked": true
+}

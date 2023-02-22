@@ -1,0 +1,5 @@
+mods/data/fusion reactor/fusion reactor-mania.json
+mods/songs/fusion reactor/Voices.ogg
+mods/songs/fusion reactor/Inst.ogg
+mods/songs/fusion reactor/voices.ogg
+mods/songs/fusion reactor/inst.ogg

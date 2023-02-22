@@ -1,0 +1,9 @@
+mods/data/interregnum/events-god.json
+mods/data/interregnum/events.json
+mods/data/interregnum/interregnum-easy.json
+mods/data/interregnum/interregnum-god.json
+mods/data/interregnum/interregnum-hard.json
+mods/songs/interregnum/Voices.ogg
+mods/songs/interregnum/Inst.ogg
+mods/songs/interregnum/voices.ogg
+mods/songs/interregnum/inst.ogg

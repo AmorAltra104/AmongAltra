@@ -1,0 +1,8 @@
+mods/data/super-saiyan/super-saiyan-canon.json
+mods/data/super-saiyan/super-saiyan-easy.json
+mods/data/super-saiyan/super-saiyan-mania.json
+mods/data/super-saiyan/super-saiyan.json
+mods/songs/super-saiyan/Voices.ogg
+mods/songs/super-saiyan/Inst.ogg
+mods/songs/super-saiyan/voices.ogg
+mods/songs/super-saiyan/inst.ogg

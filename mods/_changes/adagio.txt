@@ -1,0 +1,8 @@
+mods/data/adagio/adagio-canon.json
+mods/data/adagio/adagio-god.json
+mods/data/adagio/adagio-mania.json
+mods/data/adagio/events.json
+mods/songs/adagio/Voices.ogg
+mods/songs/adagio/Inst.ogg
+mods/songs/adagio/voices.ogg
+mods/songs/adagio/inst.ogg

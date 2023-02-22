@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "What are you two doing here!",
+			"boxState": "angry",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "bap",
+			"boxState": "normal",
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bfwii"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm guessing you came back to challange me again?",
+			"boxState": "normal",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "Are you not satisfied?",
+			"boxState": "normal",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "bop bop barapiribop!",
+			"boxState": "normal",
+			"sound": "bf-text",
+			"speed": 0.05,
+			"portrait": "bfwii"
+		},
+		{
+			"expression": "talk",
+			"text": "I almost lost my job because of you...",
+			"boxState": "normal",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "...You humiliated me infront of everyone",
+			"boxState": "normal",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		},
+		{
+			"expression": "talk",
+			"text": "This ain't training anymore, kid....",
+			"boxState": "normal",
+			"sound": "matt-text",
+			"speed": 0.05,
+			"portrait": "matt"
+		}
+	]
+}

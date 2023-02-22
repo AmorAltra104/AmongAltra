@@ -1,0 +1,9 @@
+mods/data/dissasembler/dissasembler-canon.json
+mods/data/dissasembler/dissasembler-easy.json
+mods/data/dissasembler/dissasembler-mania.json
+mods/data/dissasembler/dissasembler.json
+mods/data/dissasembler/events.json
+mods/songs/dissasembler/Voices.ogg
+mods/songs/dissasembler/Inst.ogg
+mods/songs/dissasembler/voices.ogg
+mods/songs/dissasembler/inst.ogg

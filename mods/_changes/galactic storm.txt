@@ -1,0 +1,6 @@
+mods/data/galactic storm/events.json
+mods/data/galactic storm/galactic storm-canon.json
+mods/songs/galactic storm/Voices.ogg
+mods/songs/galactic storm/Inst.ogg
+mods/songs/galactic storm/voices.ogg
+mods/songs/galactic storm/inst.ogg

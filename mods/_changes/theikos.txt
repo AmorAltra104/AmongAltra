@@ -1,0 +1,7 @@
+mods/data/theikos/theikos-11k god.json
+mods/data/theikos/theikos-canon.json
+mods/data/theikos/theikos-god.json
+mods/songs/theikos/Voices.ogg
+mods/songs/theikos/Inst.ogg
+mods/songs/theikos/voices.ogg
+mods/songs/theikos/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/valour/events.json
+mods/data/valour/valour-canon.json
+mods/data/valour/valour-mania.json
+mods/songs/valour/Voices.ogg
+mods/songs/valour/Inst.ogg
+mods/songs/valour/voices.ogg
+mods/songs/valour/inst.ogg

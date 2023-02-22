@@ -1,0 +1,6 @@
+mods/data/paradoxial/events.json
+mods/data/paradoxial/paradoxial-canon.json
+mods/songs/paradoxial/Voices.ogg
+mods/songs/paradoxial/Inst.ogg
+mods/songs/paradoxial/voices.ogg
+mods/songs/paradoxial/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/unwiseness/events.json
+mods/data/unwiseness/unwiseness-hard.json
+mods/songs/unwiseness/Voices.ogg
+mods/songs/unwiseness/Inst.ogg
+mods/songs/unwiseness/voices.ogg
+mods/songs/unwiseness/inst.ogg

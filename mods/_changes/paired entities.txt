@@ -1,0 +1,7 @@
+mods/data/paired entities/events.json
+mods/data/paired entities/paired entities-canon.json
+mods/data/paired entities/paired entities-mania.json
+mods/songs/paired entities/Voices.ogg
+mods/songs/paired entities/Inst.ogg
+mods/songs/paired entities/voices.ogg
+mods/songs/paired entities/inst.ogg

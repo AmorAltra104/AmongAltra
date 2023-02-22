@@ -1,0 +1,7 @@
+mods/data/quadripresent deitys/events.json
+mods/data/quadripresent deitys/quadripresent deitys-canon.json
+mods/data/quadripresent deitys/quadripresent deitys-mania.json
+mods/songs/quadripresent deitys/Voices.ogg
+mods/songs/quadripresent deitys/Inst.ogg
+mods/songs/quadripresent deitys/voices.ogg
+mods/songs/quadripresent deitys/inst.ogg

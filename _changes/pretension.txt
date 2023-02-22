@@ -1,0 +1,6 @@
+mods/data/pretension/events.json
+mods/data/pretension/pretension-canon.json
+mods/songs/pretension/Voices.ogg
+mods/songs/pretension/Inst.ogg
+mods/songs/pretension/voices.ogg
+mods/songs/pretension/inst.ogg

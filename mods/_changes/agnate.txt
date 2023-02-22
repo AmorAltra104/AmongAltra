@@ -1,0 +1,6 @@
+mods/data/agnate/agnate-canon.json
+mods/data/agnate/events.json
+mods/songs/agnate/Voices.ogg
+mods/songs/agnate/Inst.ogg
+mods/songs/agnate/voices.ogg
+mods/songs/agnate/inst.ogg

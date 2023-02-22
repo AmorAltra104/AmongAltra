@@ -1,0 +1,6 @@
+mods/data/target practice unknown/events.json
+mods/data/target practice unknown/target practice unknown-hard.json
+mods/songs/target practice unknown/Voices.ogg
+mods/songs/target practice unknown/Inst.ogg
+mods/songs/target practice unknown/voices.ogg
+mods/songs/target practice unknown/inst.ogg

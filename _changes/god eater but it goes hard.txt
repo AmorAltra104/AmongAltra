@@ -1,0 +1,6 @@
+mods/data/god eater but it goes hard/events.json
+mods/data/god eater but it goes hard/god eater but it goes hard-canon.json
+mods/songs/god eater but it goes hard/Voices.ogg
+mods/songs/god eater but it goes hard/Inst.ogg
+mods/songs/god eater but it goes hard/voices.ogg
+mods/songs/god eater but it goes hard/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/blammed mag-sides/blammed mag-sides-hard.json
+mods/data/blammed mag-sides/events.json
+mods/songs/blammed mag-sides/Voices.ogg
+mods/songs/blammed mag-sides/Inst.ogg
+mods/songs/blammed mag-sides/voices.ogg
+mods/songs/blammed mag-sides/inst.ogg

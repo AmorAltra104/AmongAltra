@@ -1,0 +1,5 @@
+mods/data/attenuation/attenuation-canon.json
+mods/songs/attenuation/Voices.ogg
+mods/songs/attenuation/Inst.ogg
+mods/songs/attenuation/voices.ogg
+mods/songs/attenuation/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/repulse/events.json
+mods/data/repulse/repulse-hard.json
+mods/songs/repulse/Voices.ogg
+mods/songs/repulse/Inst.ogg
+mods/songs/repulse/voices.ogg
+mods/songs/repulse/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/furia/events.json
+mods/data/furia/furia-canon.json
+mods/data/furia/furia-god.json
+mods/songs/furia/Voices.ogg
+mods/songs/furia/Inst.ogg
+mods/songs/furia/voices.ogg
+mods/songs/furia/inst.ogg

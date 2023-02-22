@@ -1,0 +1,6 @@
+mods/data/galaxy demolisher/events.json
+mods/data/galaxy demolisher/galaxy demolisher-canon.json
+mods/songs/galaxy demolisher/Voices.ogg
+mods/songs/galaxy demolisher/Inst.ogg
+mods/songs/galaxy demolisher/voices.ogg
+mods/songs/galaxy demolisher/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/insano/events.json
+mods/data/insano/insano-hard.json
+mods/songs/insano/Voices.ogg
+mods/songs/insano/Inst.ogg
+mods/songs/insano/voices.ogg
+mods/songs/insano/inst.ogg

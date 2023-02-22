@@ -1,0 +1,6 @@
+mods/data/wind-up/dialogue.json
+mods/data/wind-up/wind-up-hard.json
+mods/songs/wind-up/Voices.ogg
+mods/songs/wind-up/Inst.ogg
+mods/songs/wind-up/voices.ogg
+mods/songs/wind-up/inst.ogg

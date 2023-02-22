@@ -1,0 +1,8 @@
+mods/data/sporting-rev-sides/dialogue.json
+mods/data/sporting-rev-sides/sporting-rev-sides-easy.json
+mods/data/sporting-rev-sides/sporting-rev-sides-hard.json
+mods/data/sporting-rev-sides/sporting-rev-sides.json
+mods/songs/sporting-rev-sides/Voices.ogg
+mods/songs/sporting-rev-sides/Inst.ogg
+mods/songs/sporting-rev-sides/voices.ogg
+mods/songs/sporting-rev-sides/inst.ogg

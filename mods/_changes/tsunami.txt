@@ -1,0 +1,5 @@
+mods/data/tsunami/tsunami-canon.json
+mods/songs/tsunami/Voices.ogg
+mods/songs/tsunami/Inst.ogg
+mods/songs/tsunami/voices.ogg
+mods/songs/tsunami/inst.ogg

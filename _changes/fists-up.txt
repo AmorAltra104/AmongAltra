@@ -1,0 +1,8 @@
+mods/data/fists-up/events.json
+mods/data/fists-up/fists-up-easy.json
+mods/data/fists-up/fists-up-hard.json
+mods/data/fists-up/fists-up.json
+mods/songs/fists-up/Voices.ogg
+mods/songs/fists-up/Inst.ogg
+mods/songs/fists-up/voices.ogg
+mods/songs/fists-up/inst.ogg

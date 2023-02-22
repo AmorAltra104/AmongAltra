@@ -1,0 +1,5 @@
+mods/data/dyadikotita remake/dyadikotita remake-canon.json
+mods/songs/dyadikotita remake/Voices.ogg
+mods/songs/dyadikotita remake/Inst.ogg
+mods/songs/dyadikotita remake/voices.ogg
+mods/songs/dyadikotita remake/inst.ogg

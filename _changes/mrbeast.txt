@@ -1,0 +1,5 @@
+mods/data/mrbeast/mrbeast-mrbeast.json
+mods/songs/mrbeast/Voices.ogg
+mods/songs/mrbeast/Inst.ogg
+mods/songs/mrbeast/voices.ogg
+mods/songs/mrbeast/inst.ogg

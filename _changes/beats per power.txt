@@ -1,0 +1,6 @@
+mods/data/beats per power/beats per power-canon.json
+mods/data/beats per power/events.json
+mods/songs/beats per power/Voices.ogg
+mods/songs/beats per power/Inst.ogg
+mods/songs/beats per power/voices.ogg
+mods/songs/beats per power/inst.ogg

@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"where-are-you",
+			"shaggy",
+			[
+				206,
+				53,
+				193
+			]
+		],
+		[
+			"eruption",
+			"shaggy",
+			[
+				146,
+				173,
+				193
+			]
+		],
+		[
+			"kaio-ken",
+			"sshaggy",
+			[
+				46,
+				173,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"difficulties": "Mania,canon",
+	"weekCharacters": [
+		"shaggy",
+		"bf",
+		"gf"
+	],
+	"storyName": "The First encounter",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

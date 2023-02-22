@@ -1,0 +1,5 @@
+mods/data/destructive duo/destructive duo-canon.json
+mods/songs/destructive duo/Voices.ogg
+mods/songs/destructive duo/Inst.ogg
+mods/songs/destructive duo/voices.ogg
+mods/songs/destructive duo/inst.ogg

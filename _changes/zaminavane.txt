@@ -1,0 +1,6 @@
+mods/data/zaminavane/events.json
+mods/data/zaminavane/zaminavane-canon.json
+mods/songs/zaminavane/Voices.ogg
+mods/songs/zaminavane/Inst.ogg
+mods/songs/zaminavane/voices.ogg
+mods/songs/zaminavane/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/aura/aura-canon.json
+mods/songs/aura/Voices.ogg
+mods/songs/aura/Inst.ogg
+mods/songs/aura/voices.ogg
+mods/songs/aura/inst.ogg

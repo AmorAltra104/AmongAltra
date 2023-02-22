@@ -1,0 +1,6 @@
+mods/data/unstoppable eruption/events.json
+mods/data/unstoppable eruption/unstoppable eruption-canon.json
+mods/songs/unstoppable eruption/Voices.ogg
+mods/songs/unstoppable eruption/Inst.ogg
+mods/songs/unstoppable eruption/voices.ogg
+mods/songs/unstoppable eruption/inst.ogg

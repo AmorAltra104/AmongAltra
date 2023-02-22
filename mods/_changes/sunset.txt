@@ -1,0 +1,5 @@
+mods/data/sunset/sunset-canon.json
+mods/songs/sunset/Voices.ogg
+mods/songs/sunset/Inst.ogg
+mods/songs/sunset/voices.ogg
+mods/songs/sunset/inst.ogg

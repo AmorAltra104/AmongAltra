@@ -1,0 +1,6 @@
+mods/data/entrant/entrant-hard.json
+mods/data/entrant/events.json
+mods/songs/entrant/Voices.ogg
+mods/songs/entrant/Inst.ogg
+mods/songs/entrant/voices.ogg
+mods/songs/entrant/inst.ogg

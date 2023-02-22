@@ -1,0 +1,7 @@
+mods/data/champion/champion-easy.json
+mods/data/champion/champion-hard.json
+mods/data/champion/champion.json
+mods/songs/champion/Voices.ogg
+mods/songs/champion/Inst.ogg
+mods/songs/champion/voices.ogg
+mods/songs/champion/inst.ogg

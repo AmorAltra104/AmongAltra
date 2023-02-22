@@ -1,0 +1,7 @@
+mods/data/unlimited instinct/events.json
+mods/data/unlimited instinct/unlimited instinct-canon.json
+mods/data/unlimited instinct/unlimited instinct-mania.json
+mods/songs/unlimited instinct/Voices.ogg
+mods/songs/unlimited instinct/Inst.ogg
+mods/songs/unlimited instinct/voices.ogg
+mods/songs/unlimited instinct/inst.ogg

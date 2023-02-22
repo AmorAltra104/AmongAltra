@@ -1,0 +1,7 @@
+mods/data/bloodlust/bloodlust-canon.json
+mods/data/bloodlust/bloodlust-god.json
+mods/data/bloodlust/events.json
+mods/songs/bloodlust/Voices.ogg
+mods/songs/bloodlust/Inst.ogg
+mods/songs/bloodlust/voices.ogg
+mods/songs/bloodlust/inst.ogg

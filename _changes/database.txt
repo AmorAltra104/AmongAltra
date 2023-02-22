@@ -1,0 +1,5 @@
+mods/data/database/database-canon.json
+mods/songs/database/Voices.ogg
+mods/songs/database/Inst.ogg
+mods/songs/database/voices.ogg
+mods/songs/database/inst.ogg

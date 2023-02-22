@@ -1,0 +1,5 @@
+mods/data/surge/surge-canon.json
+mods/songs/surge/Voices.ogg
+mods/songs/surge/Inst.ogg
+mods/songs/surge/voices.ogg
+mods/songs/surge/inst.ogg

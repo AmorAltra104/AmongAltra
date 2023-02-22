@@ -1,0 +1,9 @@
+mods/data/kaio-ken/events.json
+mods/data/kaio-ken/kaio-ken-canon.json
+mods/data/kaio-ken/kaio-ken-easy.json
+mods/data/kaio-ken/kaio-ken-mania.json
+mods/data/kaio-ken/kaio-ken.json
+mods/songs/kaio-ken/Voices.ogg
+mods/songs/kaio-ken/Inst.ogg
+mods/songs/kaio-ken/voices.ogg
+mods/songs/kaio-ken/inst.ogg

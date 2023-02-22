@@ -1,0 +1,5 @@
+mods/data/godlike/godlike-canon.json
+mods/songs/godlike/Voices.ogg
+mods/songs/godlike/Inst.ogg
+mods/songs/godlike/voices.ogg
+mods/songs/godlike/inst.ogg

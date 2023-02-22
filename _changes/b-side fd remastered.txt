@@ -1,0 +1,7 @@
+mods/data/b-side fd remastered/b-side fd remastered-canon.json
+mods/data/b-side fd remastered/b-side fd remastered-god.json
+mods/data/b-side fd remastered/b-side fd remastered-mania.json
+mods/songs/b-side fd remastered/Voices.ogg
+mods/songs/b-side fd remastered/Inst.ogg
+mods/songs/b-side fd remastered/voices.ogg
+mods/songs/b-side fd remastered/inst.ogg

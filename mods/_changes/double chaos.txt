@@ -1,0 +1,5 @@
+mods/data/double chaos/double chaos-canon.json
+mods/songs/double chaos/Voices.ogg
+mods/songs/double chaos/Inst.ogg
+mods/songs/double chaos/voices.ogg
+mods/songs/double chaos/inst.ogg

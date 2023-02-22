@@ -1,0 +1,6 @@
+mods/data/final boss/events.json
+mods/data/final boss/final boss-canon.json
+mods/songs/final boss/Voices.ogg
+mods/songs/final boss/Inst.ogg
+mods/songs/final boss/voices.ogg
+mods/songs/final boss/inst.ogg

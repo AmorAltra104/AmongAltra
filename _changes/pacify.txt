@@ -1,0 +1,5 @@
+mods/data/pacify/pacify-hard.json
+mods/songs/pacify/Voices.ogg
+mods/songs/pacify/Inst.ogg
+mods/songs/pacify/voices.ogg
+mods/songs/pacify/inst.ogg

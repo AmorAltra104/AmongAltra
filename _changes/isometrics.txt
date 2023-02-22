@@ -1,0 +1,6 @@
+mods/data/isometrics/events.json
+mods/data/isometrics/isometrics-hard.json
+mods/songs/isometrics/Voices.ogg
+mods/songs/isometrics/Inst.ogg
+mods/songs/isometrics/voices.ogg
+mods/songs/isometrics/inst.ogg

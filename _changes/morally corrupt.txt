@@ -1,0 +1,6 @@
+mods/data/morally corrupt/events.json
+mods/data/morally corrupt/morally corrupt-hard.json
+mods/songs/morally corrupt/Voices.ogg
+mods/songs/morally corrupt/Inst.ogg
+mods/songs/morally corrupt/voices.ogg
+mods/songs/morally corrupt/inst.ogg

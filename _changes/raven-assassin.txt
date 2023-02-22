@@ -1,0 +1,6 @@
+mods/data/raven-assassin/events.json
+mods/data/raven-assassin/raven-assassin-canon.json
+mods/songs/raven-assassin/Voices.ogg
+mods/songs/raven-assassin/Inst.ogg
+mods/songs/raven-assassin/voices.ogg
+mods/songs/raven-assassin/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/otmenete/events.json
+mods/data/otmenete/otmenete-hard.json
+mods/songs/otmenete/Voices.ogg
+mods/songs/otmenete/Inst.ogg
+mods/songs/otmenete/voices.ogg
+mods/songs/otmenete/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/resignation/events.json
+mods/data/resignation/resignation-canon.json
+mods/songs/resignation/Voices.ogg
+mods/songs/resignation/Inst.ogg
+mods/songs/resignation/voices.ogg
+mods/songs/resignation/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/symmachia/events.json
+mods/data/symmachia/symmachia-canon.json
+mods/songs/symmachia/Voices.ogg
+mods/songs/symmachia/Inst.ogg
+mods/songs/symmachia/voices.ogg
+mods/songs/symmachia/inst.ogg

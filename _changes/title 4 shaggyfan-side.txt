@@ -1,0 +1,5 @@
+mods/data/title 4 shaggyfan-side/title 4 shaggyfan-side-canon.json
+mods/songs/title 4 shaggyfan-side/Voices.ogg
+mods/songs/title 4 shaggyfan-side/Inst.ogg
+mods/songs/title 4 shaggyfan-side/voices.ogg
+mods/songs/title 4 shaggyfan-side/inst.ogg

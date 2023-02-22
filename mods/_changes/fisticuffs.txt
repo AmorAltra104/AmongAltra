@@ -1,0 +1,8 @@
+mods/data/fisticuffs/dialogue.json
+mods/data/fisticuffs/fisticuffs-easy.json
+mods/data/fisticuffs/fisticuffs-hard.json
+mods/data/fisticuffs/fisticuffs.json
+mods/songs/fisticuffs/Voices.ogg
+mods/songs/fisticuffs/Inst.ogg
+mods/songs/fisticuffs/voices.ogg
+mods/songs/fisticuffs/inst.ogg

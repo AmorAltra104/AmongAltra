@@ -1,0 +1,48 @@
+{
+	"storyName": "IM FUCKING LOSING my mine porting this fucking mod i want to die",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"king-hit-fefe",
+			"matt",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"tko",
+			"matt",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"roughhousing",
+			"matt",
+			[
+				126,
+				73,
+				215
+			]
+		]
+	],
+	"weekName": "Custom Week"
+}

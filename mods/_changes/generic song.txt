@@ -1,0 +1,5 @@
+mods/data/generic song/generic song-canon.json
+mods/songs/generic song/Voices.ogg
+mods/songs/generic song/Inst.ogg
+mods/songs/generic song/voices.ogg
+mods/songs/generic song/inst.ogg

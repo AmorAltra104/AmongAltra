@@ -1,0 +1,6 @@
+mods/data/wacky/events.json
+mods/data/wacky/wacky-hard.json
+mods/songs/wacky/Voices.ogg
+mods/songs/wacky/Inst.ogg
+mods/songs/wacky/voices.ogg
+mods/songs/wacky/inst.ogg

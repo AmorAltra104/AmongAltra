@@ -1,0 +1,7 @@
+mods/data/ultimatum/events.json
+mods/data/ultimatum/ultimatum-canon.json
+mods/data/ultimatum/ultimatum-mania.json
+mods/songs/ultimatum/Voices.ogg
+mods/songs/ultimatum/Inst.ogg
+mods/songs/ultimatum/voices.ogg
+mods/songs/ultimatum/inst.ogg

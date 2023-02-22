@@ -1,0 +1,5 @@
+mods/data/warriors/warriors-hard.json
+mods/songs/warriors/Voices.ogg
+mods/songs/warriors/Inst.ogg
+mods/songs/warriors/voices.ogg
+mods/songs/warriors/inst.ogg

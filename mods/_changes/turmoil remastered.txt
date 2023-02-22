@@ -1,0 +1,6 @@
+mods/data/turmoil remastered/events.json
+mods/data/turmoil remastered/turmoil remastered-canon.json
+mods/songs/turmoil remastered/Voices.ogg
+mods/songs/turmoil remastered/Inst.ogg
+mods/songs/turmoil remastered/voices.ogg
+mods/songs/turmoil remastered/inst.ogg
