@@ -1,5 +1,0 @@
-mods/data/final boss 2/final boss 2-canon.json
-mods/songs/final boss 2/Voices.ogg
-mods/songs/final boss 2/Inst.ogg
-mods/songs/final boss 2/voices.ogg
-mods/songs/final boss 2/inst.ogg
