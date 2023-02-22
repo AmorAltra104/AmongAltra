@@ -1,0 +1,9 @@
+mods/data/rejected-paper/dialogue.json
+mods/data/rejected-paper/rejected-easy.json
+mods/data/rejected-paper/rejected-hard.json
+mods/data/rejected-paper/rejected-paper-broke.json
+mods/data/rejected-paper/rejected.json
+mods/songs/rejected-paper/Voices.ogg
+mods/songs/rejected-paper/Inst.ogg
+mods/songs/rejected-paper/voices.ogg
+mods/songs/rejected-paper/inst.ogg

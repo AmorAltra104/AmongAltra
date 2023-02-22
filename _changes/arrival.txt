@@ -1,0 +1,7 @@
+mods/data/arrival/arrival-broke.json
+mods/data/arrival/arrival-hard.json
+mods/data/arrival/dialogue.json
+mods/songs/arrival/Voices.ogg
+mods/songs/arrival/Inst.ogg
+mods/songs/arrival/voices.ogg
+mods/songs/arrival/inst.ogg

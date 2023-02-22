@@ -1,0 +1,10 @@
+mods/data/final-round/dialogue.json
+mods/data/final-round/events.json
+mods/data/final-round/final-round-broke.json
+mods/data/final-round/final-round-easy.json
+mods/data/final-round/final-round-hard.json
+mods/data/final-round/final-round.json
+mods/songs/final-round/Voices.ogg
+mods/songs/final-round/Inst.ogg
+mods/songs/final-round/voices.ogg
+mods/songs/final-round/inst.ogg

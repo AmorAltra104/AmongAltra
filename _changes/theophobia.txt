@@ -1,0 +1,9 @@
+mods/data/theophobia/dialogue.json
+mods/data/theophobia/theophobia-broke.json
+mods/data/theophobia/theophobia-easy.json
+mods/data/theophobia/theophobia-hard.json
+mods/data/theophobia/theophobia.json
+mods/songs/theophobia/Voices.ogg
+mods/songs/theophobia/Inst.ogg
+mods/songs/theophobia/voices.ogg
+mods/songs/theophobia/inst.ogg

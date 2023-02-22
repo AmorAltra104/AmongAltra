@@ -1,0 +1,7 @@
+mods/data/matt-bounce/events.json
+mods/data/matt-bounce/matt-bounce-hard.json
+mods/data/matt-bounce/matt-bounce.json
+mods/songs/matt-bounce/Voices.ogg
+mods/songs/matt-bounce/Inst.ogg
+mods/songs/matt-bounce/voices.ogg
+mods/songs/matt-bounce/inst.ogg

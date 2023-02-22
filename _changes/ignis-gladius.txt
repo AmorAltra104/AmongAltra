@@ -1,0 +1,10 @@
+mods/data/ignis-gladius/dialogue.json
+mods/data/ignis-gladius/ignis-gladius-broke.json
+mods/data/ignis-gladius/ignis-gladius-easy.json
+mods/data/ignis-gladius/ignis-gladius-hard.json
+mods/data/ignis-gladius/ignis-gladius-mania.json
+mods/data/ignis-gladius/ignis-gladius.json
+mods/songs/ignis-gladius/Voices.ogg
+mods/songs/ignis-gladius/Inst.ogg
+mods/songs/ignis-gladius/voices.ogg
+mods/songs/ignis-gladius/inst.ogg

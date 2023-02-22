@@ -1,0 +1,10 @@
+mods/data/rematch/dialogue.json
+mods/data/rematch/guarding-mania.json
+mods/data/rematch/rematch-broke.json
+mods/data/rematch/rematch-easy.json
+mods/data/rematch/rematch-hard.json
+mods/data/rematch/rematch.json
+mods/songs/rematch/Voices.ogg
+mods/songs/rematch/Inst.ogg
+mods/songs/rematch/voices.ogg
+mods/songs/rematch/inst.ogg

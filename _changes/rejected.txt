@@ -1,0 +1,9 @@
+mods/data/rejected/dialogue.json
+mods/data/rejected/rejected-broke.json
+mods/data/rejected/rejected-easy.json
+mods/data/rejected/rejected-hard.json
+mods/data/rejected/rejected.json
+mods/songs/rejected/Voices.ogg
+mods/songs/rejected/Inst.ogg
+mods/songs/rejected/voices.ogg
+mods/songs/rejected/inst.ogg
