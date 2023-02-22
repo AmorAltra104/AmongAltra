@@ -1,0 +1,8 @@
+mods/data/nacreous-snowmelt/nacreous-snowmelt-hard.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt-mania-c.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt-modchart.json
+mods/data/nacreous-snowmelt/nacreous-snowmelt.json
+mods/songs/nacreous-snowmelt/Voices.ogg
+mods/songs/nacreous-snowmelt/Inst.ogg
+mods/songs/nacreous-snowmelt/voices.ogg
+mods/songs/nacreous-snowmelt/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/compute-it-with-some-devilish-alcoholic-steampunk-engines/compute-it-with-some-devilish-alcoholic-steampunk-engines-hard.json
+mods/data/compute-it-with-some-devilish-alcoholic-steampunk-engines/compute-it-with-some-devilish-alcoholic-steampunk-engines-mania-c.json
+mods/data/compute-it-with-some-devilish-alcoholic-steampunk-engines/compute-it-with-some-devilish-alcoholic-steampunk-engines-modchart.json
+mods/songs/compute-it-with-some-devilish-alcoholic-steampunk-engines/Voices.ogg
+mods/songs/compute-it-with-some-devilish-alcoholic-steampunk-engines/Inst.ogg
+mods/songs/compute-it-with-some-devilish-alcoholic-steampunk-engines/voices.ogg
+mods/songs/compute-it-with-some-devilish-alcoholic-steampunk-engines/inst.ogg

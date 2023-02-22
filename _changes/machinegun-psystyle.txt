@@ -1,0 +1,7 @@
+mods/data/machinegun-psystyle/machinegun-psystyle-easy.json
+mods/data/machinegun-psystyle/machinegun-psystyle-hard.json
+mods/data/machinegun-psystyle/machinegun-psystyle.json
+mods/songs/machinegun-psystyle/Voices.ogg
+mods/songs/machinegun-psystyle/Inst.ogg
+mods/songs/machinegun-psystyle/voices.ogg
+mods/songs/machinegun-psystyle/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/fursuit/fursuit-hard.json
+mods/songs/fursuit/Voices.ogg
+mods/songs/fursuit/Inst.ogg
+mods/songs/fursuit/voices.ogg
+mods/songs/fursuit/inst.ogg

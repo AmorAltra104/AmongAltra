@@ -1,0 +1,6 @@
+mods/data/potente-target-practice/events.json
+mods/data/potente-target-practice/potente-target-practice-potente.json
+mods/songs/potente-target-practice/Voices.ogg
+mods/songs/potente-target-practice/Inst.ogg
+mods/songs/potente-target-practice/voices.ogg
+mods/songs/potente-target-practice/inst.ogg

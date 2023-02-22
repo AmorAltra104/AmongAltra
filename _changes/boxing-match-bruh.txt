@@ -1,0 +1,6 @@
+mods/data/boxing-match-bruh/boxing-match-bruh-hard.json
+mods/data/boxing-match-bruh/events.json
+mods/songs/boxing-match-bruh/Voices.ogg
+mods/songs/boxing-match-bruh/Inst.ogg
+mods/songs/boxing-match-bruh/voices.ogg
+mods/songs/boxing-match-bruh/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/shredder/shredder.json
+mods/songs/shredder/Voices.ogg
+mods/songs/shredder/Inst.ogg
+mods/songs/shredder/voices.ogg
+mods/songs/shredder/inst.ogg

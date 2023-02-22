@@ -1,0 +1,5 @@
+mods/data/bonus-song/bonus-song.json
+mods/songs/bonus-song/Voices.ogg
+mods/songs/bonus-song/Inst.ogg
+mods/songs/bonus-song/voices.ogg
+mods/songs/bonus-song/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/rival/dialogue.json
+mods/data/rival/rival-hard.json
+mods/songs/rival/Voices.ogg
+mods/songs/rival/Inst.ogg
+mods/songs/rival/voices.ogg
+mods/songs/rival/inst.ogg

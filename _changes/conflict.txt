@@ -1,0 +1,6 @@
+mods/data/conflict/conflict.json
+mods/data/conflict/meta.json
+mods/songs/conflict/Voices.ogg
+mods/songs/conflict/Inst.ogg
+mods/songs/conflict/voices.ogg
+mods/songs/conflict/inst.ogg

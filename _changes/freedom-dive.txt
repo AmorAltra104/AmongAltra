@@ -1,0 +1,5 @@
+mods/data/freedom-dive/freedom-dive-mania-c.json
+mods/songs/freedom-dive/Voices.ogg
+mods/songs/freedom-dive/Inst.ogg
+mods/songs/freedom-dive/voices.ogg
+mods/songs/freedom-dive/inst.ogg

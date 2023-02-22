@@ -1,0 +1,6 @@
+mods/data/potente-boxing-match/events.json
+mods/data/potente-boxing-match/potente-boxing-match-potente.json
+mods/songs/potente-boxing-match/Voices.ogg
+mods/songs/potente-boxing-match/Inst.ogg
+mods/songs/potente-boxing-match/voices.ogg
+mods/songs/potente-boxing-match/inst.ogg

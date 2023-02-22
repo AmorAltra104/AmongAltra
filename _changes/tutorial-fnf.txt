@@ -1,0 +1,4 @@
+mods/songs/tutorial-fnf/Voices.ogg
+mods/songs/tutorial-fnf/Inst.ogg
+mods/songs/tutorial-fnf/voices.ogg
+mods/songs/tutorial-fnf/inst.ogg

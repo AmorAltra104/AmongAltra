@@ -1,0 +1,5 @@
+mods/data/tiebreaker/tiebreaker-hard.json
+mods/songs/tiebreaker/Voices.ogg
+mods/songs/tiebreaker/Inst.ogg
+mods/songs/tiebreaker/voices.ogg
+mods/songs/tiebreaker/inst.ogg

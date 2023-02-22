@@ -1,0 +1,6 @@
+mods/data/potente-ruckus/events.json
+mods/data/potente-ruckus/potente-ruckus-potente.json
+mods/songs/potente-ruckus/Voices.ogg
+mods/songs/potente-ruckus/Inst.ogg
+mods/songs/potente-ruckus/voices.ogg
+mods/songs/potente-ruckus/inst.ogg

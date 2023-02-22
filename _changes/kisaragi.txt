@@ -1,0 +1,6 @@
+mods/data/kisaragi/kisaragi-mania-c.json
+mods/data/kisaragi/kisaragi-modchart.json
+mods/songs/kisaragi/Voices.ogg
+mods/songs/kisaragi/Inst.ogg
+mods/songs/kisaragi/voices.ogg
+mods/songs/kisaragi/inst.ogg

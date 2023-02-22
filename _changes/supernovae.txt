@@ -1,0 +1,5 @@
+mods/data/supernovae/supernovae.json
+mods/songs/supernovae/Voices.ogg
+mods/songs/supernovae/Inst.ogg
+mods/songs/supernovae/voices.ogg
+mods/songs/supernovae/inst.ogg

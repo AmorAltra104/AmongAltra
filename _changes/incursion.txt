@@ -1,0 +1,8 @@
+mods/data/incursion/incursion-easy.json
+mods/data/incursion/incursion-hard.json
+mods/data/incursion/incursion.json
+mods/data/incursion/_meta.json
+mods/songs/incursion/Voices.ogg
+mods/songs/incursion/Inst.ogg
+mods/songs/incursion/voices.ogg
+mods/songs/incursion/inst.ogg

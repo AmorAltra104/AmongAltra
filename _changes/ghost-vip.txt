@@ -1,0 +1,8 @@
+mods/data/ghost-vip/ghost-vip-hard.json
+mods/data/ghost-vip/ghost-vip-mania-c.json
+mods/data/ghost-vip/ghost-vip-modchart.json
+mods/data/ghost-vip/ghost-vip.json
+mods/songs/ghost-vip/Voices.ogg
+mods/songs/ghost-vip/Inst.ogg
+mods/songs/ghost-vip/voices.ogg
+mods/songs/ghost-vip/inst.ogg

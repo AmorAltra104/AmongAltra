@@ -1,0 +1,8 @@
+mods/data/first-town-cmode/first-town-cmode-hard.json
+mods/data/first-town-cmode/first-town-cmode-mania-c.json
+mods/data/first-town-cmode/first-town-cmode-modchart.json
+mods/data/first-town-cmode/first-town-cmode.json
+mods/songs/first-town-cmode/Voices.ogg
+mods/songs/first-town-cmode/Inst.ogg
+mods/songs/first-town-cmode/voices.ogg
+mods/songs/first-town-cmode/inst.ogg

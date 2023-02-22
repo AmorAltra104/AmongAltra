@@ -1,0 +1,5 @@
+mods/data/outmatched-again/outmatched-again-hard.json
+mods/songs/outmatched-again/Voices.ogg
+mods/songs/outmatched-again/Inst.ogg
+mods/songs/outmatched-again/voices.ogg
+mods/songs/outmatched-again/inst.ogg

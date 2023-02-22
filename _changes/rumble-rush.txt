@@ -1,0 +1,6 @@
+mods/data/rumble-rush/dialogue.json
+mods/data/rumble-rush/rumble-rush-hard.json
+mods/songs/rumble-rush/Voices.ogg
+mods/songs/rumble-rush/Inst.ogg
+mods/songs/rumble-rush/voices.ogg
+mods/songs/rumble-rush/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/why-do-you-hate-me-cmode/why-do-you-hate-me-cmode-hard.json
+mods/data/why-do-you-hate-me-cmode/why-do-you-hate-me-cmode-mania-c.json
+mods/data/why-do-you-hate-me-cmode/why-do-you-hate-me-cmode-modchart.json
+mods/data/why-do-you-hate-me-cmode/why-do-you-hate-me-cmode.json
+mods/songs/why-do-you-hate-me-cmode/Voices.ogg
+mods/songs/why-do-you-hate-me-cmode/Inst.ogg
+mods/songs/why-do-you-hate-me-cmode/voices.ogg
+mods/songs/why-do-you-hate-me-cmode/inst.ogg

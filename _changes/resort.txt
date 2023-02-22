@@ -1,0 +1,5 @@
+mods/data/resort/resort-hard.json
+mods/songs/resort/Voices.ogg
+mods/songs/resort/Inst.ogg
+mods/songs/resort/voices.ogg
+mods/songs/resort/inst.ogg

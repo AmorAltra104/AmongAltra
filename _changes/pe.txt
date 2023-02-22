@@ -1,0 +1,5 @@
+mods/data/pe/pe-hard.json
+mods/songs/pe/Voices.ogg
+mods/songs/pe/Inst.ogg
+mods/songs/pe/voices.ogg
+mods/songs/pe/inst.ogg

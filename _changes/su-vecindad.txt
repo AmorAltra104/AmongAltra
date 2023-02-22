@@ -1,0 +1,7 @@
+mods/data/su-vecindad/events.json
+mods/data/su-vecindad/su-vecindad-hard.json
+mods/data/su-vecindad/su-vecindad-torta-de-jamon.json
+mods/songs/su-vecindad/Voices.ogg
+mods/songs/su-vecindad/Inst.ogg
+mods/songs/su-vecindad/voices.ogg
+mods/songs/su-vecindad/inst.ogg

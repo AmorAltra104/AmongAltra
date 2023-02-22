@@ -1,0 +1,6 @@
+mods/data/killer/events.json
+mods/data/killer/killer-hard.json
+mods/songs/killer/Voices.ogg
+mods/songs/killer/Inst.ogg
+mods/songs/killer/voices.ogg
+mods/songs/killer/inst.ogg

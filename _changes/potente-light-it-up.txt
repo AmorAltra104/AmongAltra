@@ -1,0 +1,6 @@
+mods/data/potente-light-it-up/events.json
+mods/data/potente-light-it-up/potente-light-it-up-potente.json
+mods/songs/potente-light-it-up/Voices.ogg
+mods/songs/potente-light-it-up/Inst.ogg
+mods/songs/potente-light-it-up/voices.ogg
+mods/songs/potente-light-it-up/inst.ogg

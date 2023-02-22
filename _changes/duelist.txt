@@ -1,0 +1,5 @@
+mods/data/duelist/duelist-hard.json
+mods/songs/duelist/Voices.ogg
+mods/songs/duelist/Inst.ogg
+mods/songs/duelist/voices.ogg
+mods/songs/duelist/inst.ogg

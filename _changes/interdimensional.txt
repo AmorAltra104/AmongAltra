@@ -1,0 +1,5 @@
+mods/data/interdimensional/interdimensional.json
+mods/songs/interdimensional/Voices.ogg
+mods/songs/interdimensional/Inst.ogg
+mods/songs/interdimensional/voices.ogg
+mods/songs/interdimensional/inst.ogg

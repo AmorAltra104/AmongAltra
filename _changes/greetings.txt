@@ -1,0 +1,5 @@
+mods/data/greetings/greetings.json
+mods/songs/greetings/Voices.ogg
+mods/songs/greetings/Inst.ogg
+mods/songs/greetings/voices.ogg
+mods/songs/greetings/inst.ogg

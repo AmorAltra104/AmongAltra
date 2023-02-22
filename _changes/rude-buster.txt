@@ -1,0 +1,8 @@
+mods/data/rude-buster/rude-buster-mania-c-cmode.json
+mods/data/rude-buster/rude-buster-mania-c.json
+mods/data/rude-buster/rude-buster-modchart-cmode.json
+mods/data/rude-buster/rude-buster-modchart.json
+mods/songs/rude-buster/Voices.ogg
+mods/songs/rude-buster/Inst.ogg
+mods/songs/rude-buster/voices.ogg
+mods/songs/rude-buster/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/pgbs/pgbs-hard.json
+mods/data/pgbs/pgbs-mania-c.json
+mods/data/pgbs/pgbs-modchart.json
+mods/data/pgbs/pgbs.json
+mods/songs/pgbs/Voices.ogg
+mods/songs/pgbs/Inst.ogg
+mods/songs/pgbs/voices.ogg
+mods/songs/pgbs/inst.ogg

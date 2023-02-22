@@ -1,0 +1,5 @@
+mods/data/knockout-old/knockout-old-hard.json
+mods/songs/knockout-old/Voices.ogg
+mods/songs/knockout-old/Inst.ogg
+mods/songs/knockout-old/voices.ogg
+mods/songs/knockout-old/inst.ogg

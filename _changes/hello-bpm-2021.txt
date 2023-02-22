@@ -1,0 +1,9 @@
+mods/data/hello-bpm-2021/hello-bpm-2021-easy.json
+mods/data/hello-bpm-2021/hello-bpm-2021-hard.json
+mods/data/hello-bpm-2021/hello-bpm-2021-impossible.json
+mods/data/hello-bpm-2021/hello-bpm-2021.json
+mods/data/hello-bpm-2021/_meta.json
+mods/songs/hello-bpm-2021/Voices.ogg
+mods/songs/hello-bpm-2021/Inst.ogg
+mods/songs/hello-bpm-2021/voices.ogg
+mods/songs/hello-bpm-2021/inst.ogg

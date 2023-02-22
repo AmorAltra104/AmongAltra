@@ -1,0 +1,5 @@
+mods/data/polygonized/polygonized.json
+mods/songs/polygonized/Voices.ogg
+mods/songs/polygonized/Inst.ogg
+mods/songs/polygonized/voices.ogg
+mods/songs/polygonized/inst.ogg

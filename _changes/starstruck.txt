@@ -1,3 +1,4 @@
+mods/data/starstruck/dialogue.json
 mods/data/starstruck/events.json
 mods/data/starstruck/starstruck-hard.json
 mods/songs/starstruck/Voices.ogg

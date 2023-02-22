@@ -1,0 +1,8 @@
+mods/data/liquated-cmode/liquated-cmode-hard.json
+mods/data/liquated-cmode/liquated-cmode-mania-c.json
+mods/data/liquated-cmode/liquated-cmode-modchart.json
+mods/data/liquated-cmode/liquated-cmode.json
+mods/songs/liquated-cmode/Voices.ogg
+mods/songs/liquated-cmode/Inst.ogg
+mods/songs/liquated-cmode/voices.ogg
+mods/songs/liquated-cmode/inst.ogg

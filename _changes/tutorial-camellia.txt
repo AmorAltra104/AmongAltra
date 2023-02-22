@@ -1,0 +1,4 @@
+mods/songs/tutorial-camellia/Voices.ogg
+mods/songs/tutorial-camellia/Inst.ogg
+mods/songs/tutorial-camellia/voices.ogg
+mods/songs/tutorial-camellia/inst.ogg

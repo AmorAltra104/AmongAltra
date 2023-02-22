@@ -1,0 +1,9 @@
+mods/data/ghost-vs-ghoul/ghost-vs-ghoul-easy.json
+mods/data/ghost-vs-ghoul/ghost-vs-ghoul-hard.json
+mods/data/ghost-vs-ghoul/ghost-vs-ghoul-mania-c.json
+mods/data/ghost-vs-ghoul/ghost-vs-ghoul-modchart.json
+mods/data/ghost-vs-ghoul/ghost-vs-ghoul.json
+mods/songs/ghost-vs-ghoul/Voices.ogg
+mods/songs/ghost-vs-ghoul/Inst.ogg
+mods/songs/ghost-vs-ghoul/voices.ogg
+mods/songs/ghost-vs-ghoul/inst.ogg

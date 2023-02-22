@@ -1,0 +1,5 @@
+mods/data/title-screen/title-screen.json
+mods/songs/title-screen/Voices.ogg
+mods/songs/title-screen/Inst.ogg
+mods/songs/title-screen/voices.ogg
+mods/songs/title-screen/inst.ogg

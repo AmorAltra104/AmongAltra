@@ -1,0 +1,8 @@
+mods/data/crystallized-cmode/crystallized-cmode-hard.json
+mods/data/crystallized-cmode/crystallized-cmode-mania-c.json
+mods/data/crystallized-cmode/crystallized-cmode-modchart.json
+mods/data/crystallized-cmode/crystallized-cmode.json
+mods/songs/crystallized-cmode/Voices.ogg
+mods/songs/crystallized-cmode/Inst.ogg
+mods/songs/crystallized-cmode/voices.ogg
+mods/songs/crystallized-cmode/inst.ogg

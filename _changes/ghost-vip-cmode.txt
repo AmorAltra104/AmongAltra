@@ -1,0 +1,8 @@
+mods/data/ghost-vip-cmode/ghost-vip-cmode-hard.json
+mods/data/ghost-vip-cmode/ghost-vip-cmode-mania-c.json
+mods/data/ghost-vip-cmode/ghost-vip-cmode-modchart.json
+mods/data/ghost-vip-cmode/ghost-vip-cmode.json
+mods/songs/ghost-vip-cmode/Voices.ogg
+mods/songs/ghost-vip-cmode/Inst.ogg
+mods/songs/ghost-vip-cmode/voices.ogg
+mods/songs/ghost-vip-cmode/inst.ogg

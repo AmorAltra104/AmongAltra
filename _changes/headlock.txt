@@ -1,4 +1,7 @@
+mods/data/headlock/headlock-easy.json
 mods/data/headlock/headlock-hard.json
+mods/data/headlock/headlock.json
+mods/data/headlock/meta.json
 mods/songs/headlock/Voices.ogg
 mods/songs/headlock/Inst.ogg
 mods/songs/headlock/voices.ogg

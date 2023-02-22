@@ -1,0 +1,8 @@
+mods/data/ghost-cmode/ghost-cmode-hard.json
+mods/data/ghost-cmode/ghost-cmode-mania-c.json
+mods/data/ghost-cmode/ghost-cmode-modchart.json
+mods/data/ghost-cmode/ghost-cmode.json
+mods/songs/ghost-cmode/Voices.ogg
+mods/songs/ghost-cmode/Inst.ogg
+mods/songs/ghost-cmode/voices.ogg
+mods/songs/ghost-cmode/inst.ogg

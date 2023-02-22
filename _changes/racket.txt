@@ -1,0 +1,6 @@
+mods/data/racket/dialogue.json
+mods/data/racket/racket-hard.json
+mods/songs/racket/Voices.ogg
+mods/songs/racket/Inst.ogg
+mods/songs/racket/voices.ogg
+mods/songs/racket/inst.ogg

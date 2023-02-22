@@ -1,0 +1,5 @@
+mods/data/splitathon/splitathon.json
+mods/songs/splitathon/Voices.ogg
+mods/songs/splitathon/Inst.ogg
+mods/songs/splitathon/voices.ogg
+mods/songs/splitathon/inst.ogg

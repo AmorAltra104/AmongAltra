@@ -1,0 +1,5 @@
+mods/data/house/house.json
+mods/songs/house/Voices.ogg
+mods/songs/house/Inst.ogg
+mods/songs/house/voices.ogg
+mods/songs/house/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/lioness-pride/lioness-pride-hard.json
+mods/data/lioness-pride/lioness-pride-mania-c.json
+mods/data/lioness-pride/lioness-pride-modchart.json
+mods/data/lioness-pride/lioness-pride.json
+mods/songs/lioness-pride/Voices.ogg
+mods/songs/lioness-pride/Inst.ogg
+mods/songs/lioness-pride/voices.ogg
+mods/songs/lioness-pride/inst.ogg

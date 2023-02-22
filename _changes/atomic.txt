@@ -1,0 +1,5 @@
+mods/data/atomic/atomic-hard.json
+mods/songs/atomic/Voices.ogg
+mods/songs/atomic/Inst.ogg
+mods/songs/atomic/voices.ogg
+mods/songs/atomic/inst.ogg

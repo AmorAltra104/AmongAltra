@@ -1,0 +1,5 @@
+mods/data/rano/rano.json
+mods/songs/rano/Voices.ogg
+mods/songs/rano/Inst.ogg
+mods/songs/rano/voices.ogg
+mods/songs/rano/inst.ogg

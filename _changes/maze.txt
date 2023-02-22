@@ -1,0 +1,5 @@
+mods/data/maze/maze.json
+mods/songs/maze/Voices.ogg
+mods/songs/maze/Inst.ogg
+mods/songs/maze/voices.ogg
+mods/songs/maze/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/mystery-circles-ultra/mystery-circles-ultra-mania-c.json
+mods/data/mystery-circles-ultra/mystery-circles-ultra-modchart.json
+mods/songs/mystery-circles-ultra/Voices.ogg
+mods/songs/mystery-circles-ultra/Inst.ogg
+mods/songs/mystery-circles-ultra/voices.ogg
+mods/songs/mystery-circles-ultra/inst.ogg

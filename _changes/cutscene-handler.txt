@@ -1,0 +1,5 @@
+mods/data/cutscene-handler/cutscene-handler.json
+mods/songs/cutscene-handler/Voices.ogg
+mods/songs/cutscene-handler/Inst.ogg
+mods/songs/cutscene-handler/voices.ogg
+mods/songs/cutscene-handler/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/ghoul-cmode/ghoul-cmode-hard.json
+mods/data/ghoul-cmode/ghoul-cmode-mania-c.json
+mods/data/ghoul-cmode/ghoul-cmode-modchart.json
+mods/data/ghoul-cmode/ghoul-cmode.json
+mods/songs/ghoul-cmode/Voices.ogg
+mods/songs/ghoul-cmode/Inst.ogg
+mods/songs/ghoul-cmode/voices.ogg
+mods/songs/ghoul-cmode/inst.ogg

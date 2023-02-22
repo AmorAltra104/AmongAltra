@@ -1,0 +1,8 @@
+mods/data/strike/events.json
+mods/data/strike/meta.json
+mods/data/strike/old.json
+mods/data/strike/strike.json
+mods/songs/strike/Voices.ogg
+mods/songs/strike/Inst.ogg
+mods/songs/strike/voices.ogg
+mods/songs/strike/inst.ogg

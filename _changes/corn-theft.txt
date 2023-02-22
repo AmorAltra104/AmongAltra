@@ -1,0 +1,5 @@
+mods/data/corn-theft/corn-theft.json
+mods/songs/corn-theft/Voices.ogg
+mods/songs/corn-theft/Inst.ogg
+mods/songs/corn-theft/voices.ogg
+mods/songs/corn-theft/inst.ogg

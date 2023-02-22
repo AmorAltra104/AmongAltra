@@ -1,0 +1,7 @@
+mods/data/sword-fight/dialogue.json
+mods/data/sword-fight/events.json
+mods/data/sword-fight/sword-fight-hard.json
+mods/songs/sword-fight/Voices.ogg
+mods/songs/sword-fight/Inst.ogg
+mods/songs/sword-fight/voices.ogg
+mods/songs/sword-fight/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/knockout/dialogue.json
+mods/data/knockout/knockout-hard.json
+mods/songs/knockout/Voices.ogg
+mods/songs/knockout/Inst.ogg
+mods/songs/knockout/voices.ogg
+mods/songs/knockout/inst.ogg

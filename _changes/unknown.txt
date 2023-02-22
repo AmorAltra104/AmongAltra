@@ -1,0 +1,5 @@
+mods/data/unknown/unknown-hard.json
+mods/songs/unknown/Voices.ogg
+mods/songs/unknown/Inst.ogg
+mods/songs/unknown/voices.ogg
+mods/songs/unknown/inst.ogg

@@ -1,0 +1,4 @@
+mods/songs/dialogue/Voices.ogg
+mods/songs/dialogue/Inst.ogg
+mods/songs/dialogue/voices.ogg
+mods/songs/dialogue/inst.ogg

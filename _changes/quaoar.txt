@@ -1,0 +1,8 @@
+mods/data/quaoar/quaoar-hard.json
+mods/data/quaoar/quaoar-mania-c.json
+mods/data/quaoar/quaoar-modchart.json
+mods/data/quaoar/quaoar.json
+mods/songs/quaoar/Voices.ogg
+mods/songs/quaoar/Inst.ogg
+mods/songs/quaoar/voices.ogg
+mods/songs/quaoar/inst.ogg

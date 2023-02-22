@@ -1,0 +1,5 @@
+mods/data/potente-rejected/potente-rejected-potente.json
+mods/songs/potente-rejected/Voices.ogg
+mods/songs/potente-rejected/Inst.ogg
+mods/songs/potente-rejected/voices.ogg
+mods/songs/potente-rejected/inst.ogg

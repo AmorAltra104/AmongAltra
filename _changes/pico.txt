@@ -1,0 +1,8 @@
+mods/data/pico/pico-hard.json
+mods/data/pico/pico-mania-c.json
+mods/data/pico/pico-modchart.json
+mods/data/pico/pico.json
+mods/songs/pico/Voices.ogg
+mods/songs/pico/Inst.ogg
+mods/songs/pico/voices.ogg
+mods/songs/pico/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/purgatory-bruh/events.json
+mods/data/purgatory-bruh/purgatory-bruh-hard.json
+mods/songs/purgatory-bruh/Voices.ogg
+mods/songs/purgatory-bruh/Inst.ogg
+mods/songs/purgatory-bruh/voices.ogg
+mods/songs/purgatory-bruh/inst.ogg

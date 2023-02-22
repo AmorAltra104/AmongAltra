@@ -1,0 +1,5 @@
+mods/data/shady-rush/shady-rush-hard.json
+mods/songs/shady-rush/Voices.ogg
+mods/songs/shady-rush/Inst.ogg
+mods/songs/shady-rush/voices.ogg
+mods/songs/shady-rush/inst.ogg

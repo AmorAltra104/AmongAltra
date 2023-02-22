@@ -1,0 +1,6 @@
+mods/data/stardust/dialogue.json
+mods/data/stardust/stardust-hard.json
+mods/songs/stardust/Voices.ogg
+mods/songs/stardust/Inst.ogg
+mods/songs/stardust/voices.ogg
+mods/songs/stardust/inst.ogg
